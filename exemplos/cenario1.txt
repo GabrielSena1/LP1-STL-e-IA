@@ -1,0 +1,29 @@
+1
+Alimentacao
+800
+1
+Transporte
+300
+2
+45.90
+10/10/2026
+Alimentacao
+Mercado
+2
+120.00
+12/10/2026
+Transporte
+Uber aeroporto
+2
+900.00
+15/10/2026
+Alimentacao
+Jantar de aniversario
+3
+4
+10/2026
+2
+5
+10/2026
+6
+0
